@@ -36,6 +36,15 @@ This repository contains my work completed during the Codveda Machine Learning I
 
 ---
 
+### Task 2: Decision Tree Classifier
+
+- Built a decision tree model using Iris dataset
+- Visualized the tree structure
+- Achieved 100% accuracy
+- Evaluated using classification metrics
+
+---
+
 ## 🛠️ Tools & Technologies
 - Python
 - Pandas
