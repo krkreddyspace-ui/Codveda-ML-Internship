@@ -53,7 +53,7 @@ roc_auc = auc(fpr, tpr)
 
 print("AUC Score:", roc_auc)
 
-# Plot ROC Curve
+
 import matplotlib.pyplot as plt
 
 plt.figure()
